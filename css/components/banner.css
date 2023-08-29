@@ -1,0 +1,20 @@
+.banner {
+  background-size: cover;
+  background-position:bottom;
+  padding: 200px;
+}
+
+.container-banner{
+  color: white;
+  width: 25em;
+}
+
+.banner h1{
+  margin: 0;
+  padding: 0;
+}
+
+.banner p{
+  margin-bottom: 20px;
+  padding: 0;
+}

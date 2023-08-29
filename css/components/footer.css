@@ -1,0 +1,28 @@
+.footer{
+  background-color: rgb(29, 28, 28);
+  text-align: center;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.footer h2{
+  color:white;
+  padding-bottom: 20px;
+}
+
+i {
+  padding: 10px;
+  text-align: center;
+  }
+
+  .zoom {
+    padding: 10px;
+    background-color:  rgb(29, 28, 28);
+    transition: transform .2s; /* Animation */
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+  }
+
+  .zoom:hover {
+    transform: scale(1.2);}

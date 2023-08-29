@@ -1,0 +1,19 @@
+.btn-apply-now{
+  display: inline-block;
+  background-color:white;
+  padding: 14px 28px;
+  border-radius: 50px;
+  color: black;
+  font-weight: bolder;
+  border: 2px solid black;
+}
+
+.btn-apply-now:hover{
+  display: inline-block;
+  background-color:transparent;
+  padding: 14px 28px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bolder;
+  border: 2px solid white;
+}
